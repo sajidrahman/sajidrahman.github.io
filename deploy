@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=rahmanm
+HOST=thunder.cise.ufl.edu             
+DIR=public_html/   # the directory where your web site files should go
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0
