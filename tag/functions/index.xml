@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functions | Sajid Rahman</title>
+    <link>https://example.com/tag/functions/</link>
+      <atom:link href="https://example.com/tag/functions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Functions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Functions</title>
+      <link>https://example.com/tag/functions/</link>
+    </image>
+    
+    <item>
+      <title>Miscellaneous and Handy Java Functions</title>
+      <link>https://example.com/post/useful-java-functions/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/useful-java-functions/</guid>
+      <description>&lt;h3 id=&#34;object-orderingcomparing&#34;&gt;Object Ordering/Comparing:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;A &lt;code&gt;List l&lt;/code&gt; can be sorted as follows:
+&lt;code&gt;Collections.sort(l)&lt;/code&gt;. If the &lt;code&gt;List&lt;/code&gt; consists of built-in class objects, e.g. &lt;code&gt;String, Integer, Long, Date, Character, File&lt;/code&gt; etc., then the objects will be sorted in a way of &lt;em&gt;natural&lt;/em&gt; ordering of that class. But for objects from custom classes, our class needs to either implement &lt;code&gt;Comparable&lt;/code&gt; interface or it can implement &lt;code&gt;Comparator&lt;/code&gt; interface to provide a custom comparator for &lt;code&gt;Collections.sort(list, comparator)&lt;/code&gt; method. The following example is adapted from &lt;a href=&#34;https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oracle&amp;rsquo;s tutorial&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;
+import java.util.*;
+public class EmpSort {
+  //we can either define a comparator here
+    static final Comparator&amp;lt;Employee&amp;gt; SENIORITY_ORDER =
+                                        new Comparator&amp;lt;Employee&amp;gt;() {
+            public int compare(Employee e1, Employee e2) {
+                return e2.hireDate().compareTo(e1.hireDate());
+            }
+    };
+
+    // Employee database
+    static final Collection&amp;lt;Employee&amp;gt; employees = ... ;
+
+    public static void main(String[] args) {
+        List&amp;lt;Employee&amp;gt; employeeList = new ArrayList&amp;lt;Employee&amp;gt;(employees);
+        //Collections.sort(employeeList,  SENIORITY_ORDER);
+        // Or we can define comparator in-line with the sort method, as shown below
+        @Override
+        Collections.sort(employeeList, new Comparator&amp;lt;Employee&amp;gt;() {
+            public int compare(Employee e1, Employee e2) {
+                return e2.hireDate().compareTo(e1.hireDate());
+            }
+    });
+        System.out.println(employeeList);
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Similar to &lt;code&gt;List&lt;/code&gt;, &lt;code&gt;java.util.Arrays&lt;/code&gt; also provides convenient &lt;code&gt;sort()&lt;/code&gt; method for ordering primitive data types. For example, the following example sorts an integer array in &lt;code&gt;O(n log(n))&lt;/code&gt;. The sort method here implements a [dual-pivot Quicksort](&lt;a href=&#34;https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#sort%28int[]%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#sort(int[])&lt;/a&gt; algorithm.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;
+import java.util.Arrays;
+
+public class SortExample
+{
+    public static void main(String[] args)
+    {
+        int[] arr = {13, 77, 609, 45, 21, 9, 101, 102, -101, 30};
+
+        Arrays.sort(arr);
+
+        System.out.printf(&amp;quot;Modified arr[] : %s&amp;quot;, Arrays.toString(arr));
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;conversion&#34;&gt;Conversion&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;String to Character array:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;
+String string = &amp;quot;Hello world!&amp;quot;;
+char[] stringToCharArray = string.toCharArray();
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

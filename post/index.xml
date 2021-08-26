@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Sajid Rahman</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Corona Infographic in Bangla</title>
+      <link>https://example.com/post/corona-infographic-bangla/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/corona-infographic-bangla/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;সামাজিক দূরত্ব বজায় রাখুন&#34; srcset=&#34;
+               /post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_fb7a9bf12e71a083a330fafe2e28228f.jpg 400w,
+               /post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_1cc39d408086c75532f75a5af3226c88.jpg 760w,
+               /post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://example.com/post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_fb7a9bf12e71a083a330fafe2e28228f.jpg&#34;
+               width=&#34;587&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;করোনার বিস্তার রুখে দিন&#34; srcset=&#34;
+               /post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_179f428cc1d21f07c1fc2515c363be21.jpg 400w,
+               /post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_a95cb3d486f4eb9a9c1c875cc12e0c2f.jpg 760w,
+               /post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://example.com/post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_179f428cc1d21f07c1fc2515c363be21.jpg&#34;
+               width=&#34;587&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;হাই-রেজলুশেন প্রিন্টের জন্য pdf কপি সংগ্রহ করুন এখান থেকে&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;১. &lt;a href=&#34;https://example.com/uploads/social-distancing-infograph-bangla.pdf&#34; target=&#34;_blank&#34;&gt;সোশ্যাল ডিসট্যানসিং&lt;/a&gt;
+২. &lt;a href=&#34;https://example.com/uploads/stop-the-spread-of-germs-bangla.pdf&#34; target=&#34;_blank&#34;&gt;স্টপ স্প্রেড অফ করোনা&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Customizing iTerm2</title>
+      <link>https://example.com/post/customizing-iterm2/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/customizing-iterm2/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve found this tutorial &lt;a href=&#34;https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here at freecodecamp&lt;/a&gt; very useful to install and customize iTerm2 in my mac. I have followed almost all of the steps, except the color customization options, where I chose to use &lt;a href=&#34;https://github.com/MartinSeeler/iterm2-material-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;material-design by Martin Seeler&lt;/a&gt;. I also liked &lt;a href=&#34;https://draculatheme.com/iterm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Dracula for dark theme&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deploying in Apache Tomcat via Maven-Tomcat plugin</title>
+      <link>https://example.com/post/maven-tomcat-deployment/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/maven-tomcat-deployment/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Add the following user-roles and user (specially a user with roles of &lt;code&gt;manager-jmx,manager-script&lt;/code&gt;, see &amp;lsquo;maven&amp;rsquo; user, for example) in tomcat-users.xml file. (Sidenote: you can create a user with &lt;code&gt;manager-gui&lt;/code&gt; role to access Tomcat manager interface from your browser, that&amp;rsquo;s pretty cool and handy!!)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;!--This file is located in %TOMCAT_HOME%/conf/tomcat-users.xml --&amp;gt;
+&amp;lt;?xml version=&#39;1.0&#39; encoding=&#39;utf-8&#39;?&amp;gt;
+&amp;lt;tomcat-users&amp;gt;
+
+  &amp;lt;role rolename=&amp;quot;manager-gui&amp;quot;/&amp;gt;
+  &amp;lt;role rolename=&amp;quot;manager-script&amp;quot;/&amp;gt;
+  &amp;lt;role rolename=&amp;quot;manager-jmx&amp;quot;/&amp;gt;
+  &amp;lt;user username=&amp;quot;admin&amp;quot; password=&amp;quot;tomcat&amp;quot; roles=&amp;quot;manager-gui&amp;quot;/&amp;gt;
+  &amp;lt;user username=&amp;quot;maven&amp;quot; password=&amp;quot;tomcat&amp;quot; roles=&amp;quot;manager-jmx,manager-script&amp;quot;/&amp;gt;
+
+&amp;lt;/tomcat-users&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Add above Tomcat’s user (&amp;lsquo;maven&amp;rsquo; user in this case) in the Maven setting file, later Maven will use this user to login Tomcat server.( N.B. In case of a project running in IntelliJ, view/create maven settings.xml file from POM &amp;ndash;&amp;gt; MAVEN &amp;ndash;&amp;gt; Open Settings.xml (Or Create Settings.xml, if settings.xml is not present).)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;
+&amp;lt;settings xmlns=&amp;quot;http://maven.apache.org/SETTINGS/1.0.0&amp;quot;
+          xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot;
+          xsi:schemaLocation=&amp;quot;http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd&amp;quot;&amp;gt;
+    &amp;lt;servers&amp;gt;
+
+        &amp;lt;server&amp;gt;
+            &amp;lt;id&amp;gt;TomcatServer&amp;lt;/id&amp;gt;
+            &amp;lt;username&amp;gt;root&amp;lt;/username&amp;gt;
+            &amp;lt;password&amp;gt;tomcat&amp;lt;/password&amp;gt;
+        &amp;lt;/server&amp;gt;
+
+    &amp;lt;/servers&amp;gt;
+&amp;lt;/settings&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Declare a maven-tomcat plugin in pom.xml.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;	&amp;lt;plugin&amp;gt;
+		&amp;lt;groupId&amp;gt;org.apache.tomcat.maven&amp;lt;/groupId&amp;gt;
+		&amp;lt;artifactId&amp;gt;tomcat7-maven-plugin&amp;lt;/artifactId&amp;gt;
+		&amp;lt;version&amp;gt;2.2&amp;lt;/version&amp;gt;
+		&amp;lt;configuration&amp;gt;
+			&amp;lt;url&amp;gt;http://localhost:8080/manager/text&amp;lt;/url&amp;gt;
+			&amp;lt;server&amp;gt;TomcatServer&amp;lt;/server&amp;gt;
+			&amp;lt;path&amp;gt;/mycoolapp&amp;lt;/path&amp;gt;
+		&amp;lt;/configuration&amp;gt;
+	&amp;lt;/plugin&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here, we are configuring maven-tomcat plugin to access TomcatServer with credentials defined in maven&amp;rsquo;s settings.xml file and deploy our app in this context path &lt;strong&gt;/mycoolapp&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Run Tomcat Server (from command line &lt;code&gt;%TOMCAT_HOME%/bin/startup.sh&lt;/code&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now execute this command in terminal after going to your project directory: &lt;code&gt;maven tomcat7:deploy&lt;/code&gt; to deploy your war file in Tomcat. You should get a &lt;strong&gt;BUILD SUCCESS&lt;/strong&gt; message if everything goes well.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Install SonarQube on MacOSX</title>
+      <link>https://example.com/post/install-sonar-on-macosx/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/install-sonar-on-macosx/</guid>
+      <description>&lt;h2 id=&#34;steps&#34;&gt;Steps:&lt;/h2&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Make sure you have &lt;code&gt;homebrew&lt;/code&gt; installed in your machine, otherwise follow instrunctions at &lt;a href=&#34;https://brew.sh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;brew.sh&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Open terminal, run &lt;code&gt;brew install sonar&lt;/code&gt;. Assuming brew installs SonarQube successfully, take a look at the last line of the terminal where the SonarQube location is printed. In my case it is &lt;code&gt;/usr/local/Cellar/sonarqube/7.1&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Now run &lt;code&gt;brew install sonar-scanner&lt;/code&gt; (N.B. sonar-runner is no longer available, it&amp;rsquo;s replaced by sonar-scanner).&lt;/li&gt;
+&lt;li&gt;After installation is complete, run the following commands consecutively:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;  export SONAR_HOME=/usr/local/Cellar/sonar-scanner/3.2.0.1227/libexec
+  export SONAR=$SONAR_HOME/bin
+  export PATH=$SONAR:$PATH
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;[Note: exporting path in this way will work for the current session of terminal, for permanent use, I need to transfer these path variables to .bashrc file.]&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Now we can run SonarQube from terminal by issuing this command &lt;code&gt;/usr/local/opt/sonarqube/bin/sonar console&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Go to http://localhost:9000/ (or appropriate port based on your system) to view the main page of SonarQube. Use this credentials (username: admin, password: admin) to login.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;References (a bit deprecated):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://zafercelaloglu.blogspot.com/2014/07/how-to-setup-sonar-on-mac-part-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Setup SonarQube on Mac Part-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.managerjs.com/blog/2015/11/install-sonar-locally-on-osx-and-analyze-a-javascript-project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Sonar Locally on OSX &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latex Hacks - Bag of Tricks</title>
+      <link>https://example.com/post/latex-tricks/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/latex-tricks/</guid>
+      <description>&lt;h3 id=&#34;steps-to-highlight-certain-bibliography-items-with-asterisk-for-example-marks&#34;&gt;Steps to Highlight certain bibliography items with asterisk (for example) marks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Add &lt;code&gt;keywords={important}&lt;/code&gt; in a particular entry in &lt;code&gt;.bib&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{bar,
+    author       = {Bar},
+    title        = {Bar},
+    booktitle    = {Bar},
+    year         = {2017},
+    keywords     = {important},
+  }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add the following command in the preamble section&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;\renewbibmacro*{begentry}{\ifkeyword{important}{\makebox[0pt][r]{\textasteriskcentered\addspace}}{}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Voila! &lt;a href=&#34;https://tex.stackexchange.com/questions/402765/how-do-i-mark-bibliography-entries-in-the-margin?rq=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-to-add-markdown-support-in-latex&#34;&gt;How to Add Markdown Support in Latex&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Add &lt;code&gt;markdown&lt;/code&gt;package in the preamble&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;\usepackage[T1]{fontenc}
+\usepackage[hybrid,smartEllipses]{markdown}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now you can create a markdown file, add all your contents and style in makrdown and link the &lt;code&gt;.md&lt;/code&gt; file in the document section of your latex file using this command &lt;code&gt;\markdownInput{objective.md}&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;With the &lt;code&gt;hybrid&lt;/code&gt; parameter, you can use latex code inside your markdown. Also, you need to escape latex-special characters if you choose to use hybrid parameter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For compiling, you need to add &lt;code&gt;--shell-escape&lt;/code&gt;parameter from command-line like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-clike&#34;&gt;pdflatex --shell-escape main.tex
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can also use a makefile, if you want to generate bibliography. Here&amp;rsquo;s a sample Makefile:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-makefile&#34;&gt;notarealfile.pdf:
+	pdflatex --shell-escape main.tex
+	bibtex main
+	pdflatex --shell-escape main
+	pdflatex --shell-escape main
+
+clean:
+	rm -f *.pdf
+	rm -f *.dvi
+	rm -f *.toc
+	rm -f *.aux
+	rm -f *.bbl
+	rm -f *.log
+	rm -f *.blg
+	rm -f *.bak
+	rm -f *.out
+	rm -f *.ps
+	rm -f *.synctex.gz
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For more, check &lt;a href=&#34;https://www.overleaf.com/learn/how-to/Writing_Markdown_in_LaTeX_Documents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;overleaf&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous and Handy Java Functions</title>
+      <link>https://example.com/post/useful-java-functions/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/useful-java-functions/</guid>
+      <description>&lt;h3 id=&#34;object-orderingcomparing&#34;&gt;Object Ordering/Comparing:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;A &lt;code&gt;List l&lt;/code&gt; can be sorted as follows:
+&lt;code&gt;Collections.sort(l)&lt;/code&gt;. If the &lt;code&gt;List&lt;/code&gt; consists of built-in class objects, e.g. &lt;code&gt;String, Integer, Long, Date, Character, File&lt;/code&gt; etc., then the objects will be sorted in a way of &lt;em&gt;natural&lt;/em&gt; ordering of that class. But for objects from custom classes, our class needs to either implement &lt;code&gt;Comparable&lt;/code&gt; interface or it can implement &lt;code&gt;Comparator&lt;/code&gt; interface to provide a custom comparator for &lt;code&gt;Collections.sort(list, comparator)&lt;/code&gt; method. The following example is adapted from &lt;a href=&#34;https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oracle&amp;rsquo;s tutorial&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;
+import java.util.*;
+public class EmpSort {
+  //we can either define a comparator here
+    static final Comparator&amp;lt;Employee&amp;gt; SENIORITY_ORDER =
+                                        new Comparator&amp;lt;Employee&amp;gt;() {
+            public int compare(Employee e1, Employee e2) {
+                return e2.hireDate().compareTo(e1.hireDate());
+            }
+    };
+
+    // Employee database
+    static final Collection&amp;lt;Employee&amp;gt; employees = ... ;
+
+    public static void main(String[] args) {
+        List&amp;lt;Employee&amp;gt; employeeList = new ArrayList&amp;lt;Employee&amp;gt;(employees);
+        //Collections.sort(employeeList,  SENIORITY_ORDER);
+        // Or we can define comparator in-line with the sort method, as shown below
+        @Override
+        Collections.sort(employeeList, new Comparator&amp;lt;Employee&amp;gt;() {
+            public int compare(Employee e1, Employee e2) {
+                return e2.hireDate().compareTo(e1.hireDate());
+            }
+    });
+        System.out.println(employeeList);
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Similar to &lt;code&gt;List&lt;/code&gt;, &lt;code&gt;java.util.Arrays&lt;/code&gt; also provides convenient &lt;code&gt;sort()&lt;/code&gt; method for ordering primitive data types. For example, the following example sorts an integer array in &lt;code&gt;O(n log(n))&lt;/code&gt;. The sort method here implements a [dual-pivot Quicksort](&lt;a href=&#34;https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#sort%28int[]%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#sort(int[])&lt;/a&gt; algorithm.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;
+import java.util.Arrays;
+
+public class SortExample
+{
+    public static void main(String[] args)
+    {
+        int[] arr = {13, 77, 609, 45, 21, 9, 101, 102, -101, 30};
+
+        Arrays.sort(arr);
+
+        System.out.printf(&amp;quot;Modified arr[] : %s&amp;quot;, Arrays.toString(arr));
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;conversion&#34;&gt;Conversion&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;String to Character array:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;
+String string = &amp;quot;Hello world!&amp;quot;;
+char[] stringToCharArray = string.toCharArray();
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Refresher of Security Taxonomy</title>
+      <link>https://example.com/post/security-taxonomy/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/security-taxonomy/</guid>
+      <description>&lt;p&gt;A list of basic terminologies frequently used with security &amp;amp; privacy related discussions/articles/research papers&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Principal&lt;/strong&gt; : A legitimate actor of any system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Credential(s)&lt;/strong&gt; : An artifact(s) to provide identity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authentication&lt;/strong&gt; : The process through which an identity is associated with some principal.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authorization&lt;/strong&gt; : A set of rights/permissions which a principal possesses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Threat&lt;/strong&gt; : A specific means by which an attacker can put a system at risk.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Threat model&lt;/strong&gt; : A collection of threats that is deemed important for a particular environment. It can also be thought as a collection of attacker(s) abilities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vulnerability&lt;/strong&gt; : A systematic artifact that exposes the user, data, or system to a &lt;em&gt;threat&lt;/em&gt;. Vulnerabilities are also known as &lt;em&gt;attack vectors&lt;/em&gt; which an adversary (bad guy(s)) use to compromise a system. Common sources of vulnerability could be bad software/hardware design, bad policy/configuration, system misuse etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Attack&lt;/strong&gt; : An occurrence where a vulnerability is exploited by an adversary. When an attack is successful, we call it as a &lt;em&gt;compromise&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trust&lt;/strong&gt; : An expectation from a principal to act in an anticipated manner.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trust model&lt;/strong&gt; : An explicit assessment of the trust embodied in a system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security model&lt;/strong&gt; : A combination of a trust and threat models that address the set of perceived risks along with security requirements.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://securitytoday.com/articles/2014/05/23/what-everyone-should-know-about-privacy-security-and-confidentiality.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Confidentiality vs Privacy&lt;/a&gt;: Privacy applies to the person while confidentiality applies to the data (&lt;a href=&#34;https://research.uci.edu/compliance/human-research-protections/docs/privacy-confidentiality-hrp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;more here&lt;/a&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Heilmeier Catechism (or what to include in a killer proposal)</title>
+      <link>https://example.com/post/heilmeier-catechism-for-killer-proposal/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/heilmeier-catechism-for-killer-proposal/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The Heilmeier Catechism&#34; srcset=&#34;
+               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg 400w,
+               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_59f1b989f4d6aa0ae5dc2884025f2122.jpg 760w,
+               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://example.com/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;To read more:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.darpa.mil/work-with-us/heilmeier-catechism&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Heilmeier Catechism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ifm.eng.cam.ac.uk/research/grant-writers-handbook/drafting-the-proposal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Image credit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tiny Android Security Tutorial</title>
+      <link>https://example.com/post/android-security-tutorial/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/android-security-tutorial/</guid>
+      <description>&lt;p&gt;[Secure Android App Development]
+Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mobisec.reyammer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Another Great Resource:MobiSec&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Github Repo: &lt;a href=&#34;https://github.com/secureappmooc/BuggyTheApp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BuggyTheApp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1.8 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21550&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terminology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1.9 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21551&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Threat and risk modelling&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1.10 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unacceptable loss and residual risk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1.12 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21553&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security Controls&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.12 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21570&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attacking BuggyTheApp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.13 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SQL injection&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.14 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fortify SCA to scan for vulnerabilities&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.15 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21573&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fixing SQL vulnerability&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.16 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Input Validation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.2 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/1/steps/141013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security by Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.3 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/1/steps/141014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principle of Least Privilege&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.5 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/1/steps/141016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Android Application Sandbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.6 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21581&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A quick refresher of application components under Android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.7 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21582&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Public or private components&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.8 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overview of Permissions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.9 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Permissions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.10 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21585&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Permissions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.13 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Interprocess Communication&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.15 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21588&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Asynchronus IPC in Android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.16 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21589&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synchronus IPC in Android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.17 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21590&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Activities&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.18 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21591&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Services&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.19 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21592&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Content Providers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.21 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21594&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Broadcast receivers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.4 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21598&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Storage Options&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.5 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21599&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Internal &amp;amp; External Storage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.7 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;File and disk encryption&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.8 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21602&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Android KeyStore&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.9 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptographic Keys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.10 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securely sharing data via Content Providers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.12 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21606&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hashing Data&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.13 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21607&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Key Principles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.14 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21608&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Authenticating the user to a remote server&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.15 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21609&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Authenticating remote servers and encrypting connections&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.16 &lt;a href=&#34;https://www.futurelearn.com/courses/secure-android-app-development/0/steps/21610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebView Input Validation.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is Bootstrapping in Statistics</title>
+      <link>https://example.com/post/bootstrapping-in-statistics/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/bootstrapping-in-statistics/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Let&amp;rsquo;s see what is &lt;em&gt;re-sample&lt;/em&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bootstrapping in Statistics-1&#34; srcset=&#34;
+               /post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_f3773f4991c27cffda8e5cbc850554cb.png 400w,
+               /post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_1c0a5498059a72ddb7b489f83ef58b72.png 760w,
+               /post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://example.com/post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_f3773f4991c27cffda8e5cbc850554cb.png&#34;
+               width=&#34;760&#34;
+               height=&#34;571&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Now let&amp;rsquo;s check the idea behind &lt;em&gt;sampling distribution&lt;/em&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bootstrapping in Statistics-2&#34; srcset=&#34;
+               /post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_04521bd13b66e9e627dcd6fa4de0eaee.png 400w,
+               /post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_a102bdf4b4760c9982627d7c174cbb46.png 760w,
+               /post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://example.com/post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_04521bd13b66e9e627dcd6fa4de0eaee.png&#34;
+               width=&#34;760&#34;
+               height=&#34;574&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Briefly the theory of &lt;em&gt;sampling distribution&lt;/em&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bootstrapping in Statistics-3&#34; srcset=&#34;
+               /post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_3631363d885e70e903df125d5d039c92.png 400w,
+               /post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_fc865f1bc8d5a3245b1fd6536d5ef604.png 760w,
+               /post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://example.com/post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_3631363d885e70e903df125d5d039c92.png&#34;
+               width=&#34;760&#34;
+               height=&#34;572&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Finally, here comes the idea of &lt;em&gt;bootstrapping&lt;/em&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bootstrapping in Statistics-4&#34; srcset=&#34;
+               /post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_aaa60a8bf83300ff928cf8323a1776f6.png 400w,
+               /post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_024af48e3ea79090473778406de24abc.png 760w,
+               /post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://example.com/post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_aaa60a8bf83300ff928cf8323a1776f6.png&#34;
+               width=&#34;760&#34;
+               height=&#34;572&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Slide Credit:&lt;/strong&gt; &lt;a href=&#34;https://www.slideshare.net/smackinnon/introduction-to-mediation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.slideshare.net/smackinnon/introduction-to-mediation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s another nice discussion on boottsrapping &lt;a href=&#34;https://www.iwh.on.ca/what-researchers-mean-by/bootstrapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.iwh.on.ca/what-researchers-mean-by/bootstrapping&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the Difference between a Hypothesis and a Research question?</title>
+      <link>https://example.com/post/hypothesis-vs-research-question/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/hypothesis-vs-research-question/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hypothesis vs Research Questions&#34; srcset=&#34;
+               /post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_a24117ab8d03e04489910cfe00704def.png 400w,
+               /post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_1dbffad197f2667c366f20db12f186dd.png 760w,
+               /post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://example.com/post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_a24117ab8d03e04489910cfe00704def.png&#34;
+               width=&#34;400&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;To read more:
+&lt;a href=&#34;https://cirt.gcu.edu/research/developmentresources/research_ready/quantresearch/question_hypoth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Questions and Hypotheses&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
