@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>java | Sajid Rahman</title>
-    <link>sajidrahman.github.io/tag/java/</link>
-      <atom:link href="sajidrahman.github.io/tag/java/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sajidrahman.github.io/tag/java/</link>
+      <atom:link href="https://sajidrahman.github.io/tag/java/index.xml" rel="self" type="application/rss+xml" />
     <description>java</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Sajid Rahman</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/sajidrahman.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sajidrahman.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>java</title>
-      <link>sajidrahman.github.io/tag/java/</link>
+      <link>https://sajidrahman.github.io/tag/java/</link>
     </image>
     
     <item>
       <title>Deploying in Apache Tomcat via Maven-Tomcat plugin</title>
-      <link>sajidrahman.github.io/post/maven-tomcat-deployment/</link>
+      <link>https://sajidrahman.github.io/post/maven-tomcat-deployment/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/maven-tomcat-deployment/</guid>
+      <guid>https://sajidrahman.github.io/post/maven-tomcat-deployment/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Add the following user-roles and user (specially a user with roles of &lt;code&gt;manager-jmx,manager-script&lt;/code&gt;, see &amp;lsquo;maven&amp;rsquo; user, for example) in tomcat-users.xml file. (Sidenote: you can create a user with &lt;code&gt;manager-gui&lt;/code&gt; role to access Tomcat manager interface from your browser, that&amp;rsquo;s pretty cool and handy!!)&lt;/li&gt;
 &lt;/ol&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>Miscellaneous and Handy Java Functions</title>
-      <link>sajidrahman.github.io/post/useful-java-functions/</link>
+      <link>https://sajidrahman.github.io/post/useful-java-functions/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/useful-java-functions/</guid>
+      <guid>https://sajidrahman.github.io/post/useful-java-functions/</guid>
       <description>&lt;h3 id=&#34;object-orderingcomparing&#34;&gt;Object Ordering/Comparing:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;A &lt;code&gt;List l&lt;/code&gt; can be sorted as follows:

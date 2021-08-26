@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MacOSX | Sajid Rahman</title>
-    <link>sajidrahman.github.io/tag/macosx/</link>
-      <atom:link href="sajidrahman.github.io/tag/macosx/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sajidrahman.github.io/tag/macosx/</link>
+      <atom:link href="https://sajidrahman.github.io/tag/macosx/index.xml" rel="self" type="application/rss+xml" />
     <description>MacOSX</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Sajid Rahman</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/sajidrahman.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sajidrahman.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>MacOSX</title>
-      <link>sajidrahman.github.io/tag/macosx/</link>
+      <link>https://sajidrahman.github.io/tag/macosx/</link>
     </image>
     
     <item>
       <title>Install SonarQube on MacOSX</title>
-      <link>sajidrahman.github.io/post/install-sonar-on-macosx/</link>
+      <link>https://sajidrahman.github.io/post/install-sonar-on-macosx/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/install-sonar-on-macosx/</guid>
+      <guid>https://sajidrahman.github.io/post/install-sonar-on-macosx/</guid>
       <description>&lt;h2 id=&#34;steps&#34;&gt;Steps:&lt;/h2&gt;
 &lt;ol start=&#34;0&#34;&gt;
 &lt;li&gt;Make sure you have &lt;code&gt;homebrew&lt;/code&gt; installed in your machine, otherwise follow instrunctions at &lt;a href=&#34;https://brew.sh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;brew.sh&lt;/a&gt;.&lt;/li&gt;

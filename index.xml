@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sajid Rahman</title>
-    <link>sajidrahman.github.io/</link>
-      <atom:link href="sajidrahman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sajidrahman.github.io/</link>
+      <atom:link href="https://sajidrahman.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sajid Rahman</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Sajid Rahman</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/sajidrahman.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sajidrahman.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sajid Rahman</title>
-      <link>sajidrahman.github.io/</link>
+      <link>https://sajidrahman.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>sajidrahman.github.io/talk/example-talk/</link>
+      <link>https://sajidrahman.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/talk/example-talk/</guid>
+      <guid>https://sajidrahman.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,17 +34,17 @@
     
     <item>
       <title>Hear &#34;no evil&#34;, see &#34;kenansville&#34;: Efficient and transferable black-box attacks on speech recognition and voice identification systems</title>
-      <link>sajidrahman.github.io/publication/abdullah-2019-hear/</link>
+      <link>https://sajidrahman.github.io/publication/abdullah-2019-hear/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/publication/abdullah-2019-hear/</guid>
+      <guid>https://sajidrahman.github.io/publication/abdullah-2019-hear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corona Infographic in Bangla</title>
-      <link>sajidrahman.github.io/post/corona-infographic-bangla/</link>
+      <link>https://sajidrahman.github.io/post/corona-infographic-bangla/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/corona-infographic-bangla/</guid>
+      <guid>https://sajidrahman.github.io/post/corona-infographic-bangla/</guid>
       <description>&lt;p&gt;
 
 
@@ -64,10 +64,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;সামাজিক দূরত্ব বজায় রাখুন&#34; srcset=&#34;
-               /sajidrahman.github.io/post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_fb7a9bf12e71a083a330fafe2e28228f.jpg 400w,
-               /sajidrahman.github.io/post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_1cc39d408086c75532f75a5af3226c88.jpg 760w,
-               /sajidrahman.github.io/post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_fb7a9bf12e71a083a330fafe2e28228f.jpg&#34;
+               /post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_fb7a9bf12e71a083a330fafe2e28228f.jpg 400w,
+               /post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_1cc39d408086c75532f75a5af3226c88.jpg 760w,
+               /post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://sajidrahman.github.io/post/corona-infographic-bangla/corona_social_dist_huf277b3b357f14cb0d7ea0d91db39def0_2640726_fb7a9bf12e71a083a330fafe2e28228f.jpg&#34;
                width=&#34;587&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -92,35 +92,35 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;করোনার বিস্তার রুখে দিন&#34; srcset=&#34;
-               /sajidrahman.github.io/post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_179f428cc1d21f07c1fc2515c363be21.jpg 400w,
-               /sajidrahman.github.io/post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_a95cb3d486f4eb9a9c1c875cc12e0c2f.jpg 760w,
-               /sajidrahman.github.io/post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_179f428cc1d21f07c1fc2515c363be21.jpg&#34;
+               /post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_179f428cc1d21f07c1fc2515c363be21.jpg 400w,
+               /post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_a95cb3d486f4eb9a9c1c875cc12e0c2f.jpg 760w,
+               /post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://sajidrahman.github.io/post/corona-infographic-bangla/stop-corona_hu528f7e3cbaf189f8fb643f47a737b71a_995988_179f428cc1d21f07c1fc2515c363be21.jpg&#34;
                width=&#34;587&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;হাই-রেজলুশেন প্রিন্টের জন্য pdf কপি সংগ্রহ করুন এখান থেকে&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;১. &lt;a href=&#34;sajidrahman.github.io/sajidrahman.github.io/uploads/social-distancing-infograph-bangla.pdf&#34; target=&#34;_blank&#34;&gt;সোশ্যাল ডিসট্যানসিং&lt;/a&gt;
-২. &lt;a href=&#34;sajidrahman.github.io/sajidrahman.github.io/uploads/stop-the-spread-of-germs-bangla.pdf&#34; target=&#34;_blank&#34;&gt;স্টপ স্প্রেড অফ করোনা&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;১. &lt;a href=&#34;https://sajidrahman.github.io/uploads/social-distancing-infograph-bangla.pdf&#34; target=&#34;_blank&#34;&gt;সোশ্যাল ডিসট্যানসিং&lt;/a&gt;
+২. &lt;a href=&#34;https://sajidrahman.github.io/uploads/stop-the-spread-of-germs-bangla.pdf&#34; target=&#34;_blank&#34;&gt;স্টপ স্প্রেড অফ করোনা&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Customizing iTerm2</title>
-      <link>sajidrahman.github.io/post/customizing-iterm2/</link>
+      <link>https://sajidrahman.github.io/post/customizing-iterm2/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/customizing-iterm2/</guid>
+      <guid>https://sajidrahman.github.io/post/customizing-iterm2/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve found this tutorial &lt;a href=&#34;https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here at freecodecamp&lt;/a&gt; very useful to install and customize iTerm2 in my mac. I have followed almost all of the steps, except the color customization options, where I chose to use &lt;a href=&#34;https://github.com/MartinSeeler/iterm2-material-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;material-design by Martin Seeler&lt;/a&gt;. I also liked &lt;a href=&#34;https://draculatheme.com/iterm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Dracula for dark theme&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deploying in Apache Tomcat via Maven-Tomcat plugin</title>
-      <link>sajidrahman.github.io/post/maven-tomcat-deployment/</link>
+      <link>https://sajidrahman.github.io/post/maven-tomcat-deployment/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/maven-tomcat-deployment/</guid>
+      <guid>https://sajidrahman.github.io/post/maven-tomcat-deployment/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Add the following user-roles and user (specially a user with roles of &lt;code&gt;manager-jmx,manager-script&lt;/code&gt;, see &amp;lsquo;maven&amp;rsquo; user, for example) in tomcat-users.xml file. (Sidenote: you can create a user with &lt;code&gt;manager-gui&lt;/code&gt; role to access Tomcat manager interface from your browser, that&amp;rsquo;s pretty cool and handy!!)&lt;/li&gt;
 &lt;/ol&gt;
@@ -182,9 +182,9 @@
     
     <item>
       <title>Install SonarQube on MacOSX</title>
-      <link>sajidrahman.github.io/post/install-sonar-on-macosx/</link>
+      <link>https://sajidrahman.github.io/post/install-sonar-on-macosx/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/install-sonar-on-macosx/</guid>
+      <guid>https://sajidrahman.github.io/post/install-sonar-on-macosx/</guid>
       <description>&lt;h2 id=&#34;steps&#34;&gt;Steps:&lt;/h2&gt;
 &lt;ol start=&#34;0&#34;&gt;
 &lt;li&gt;Make sure you have &lt;code&gt;homebrew&lt;/code&gt; installed in your machine, otherwise follow instrunctions at &lt;a href=&#34;https://brew.sh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;brew.sh&lt;/a&gt;.&lt;/li&gt;
@@ -211,9 +211,9 @@
     
     <item>
       <title>Latex Hacks - Bag of Tricks</title>
-      <link>sajidrahman.github.io/post/latex-tricks/</link>
+      <link>https://sajidrahman.github.io/post/latex-tricks/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/latex-tricks/</guid>
+      <guid>https://sajidrahman.github.io/post/latex-tricks/</guid>
       <description>&lt;h3 id=&#34;steps-to-highlight-certain-bibliography-items-with-asterisk-for-example-marks&#34;&gt;Steps to Highlight certain bibliography items with asterisk (for example) marks&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -287,9 +287,9 @@ clean:
     
     <item>
       <title>Miscellaneous and Handy Java Functions</title>
-      <link>sajidrahman.github.io/post/useful-java-functions/</link>
+      <link>https://sajidrahman.github.io/post/useful-java-functions/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/useful-java-functions/</guid>
+      <guid>https://sajidrahman.github.io/post/useful-java-functions/</guid>
       <description>&lt;h3 id=&#34;object-orderingcomparing&#34;&gt;Object Ordering/Comparing:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;A &lt;code&gt;List l&lt;/code&gt; can be sorted as follows:
@@ -354,9 +354,9 @@ char[] stringToCharArray = string.toCharArray();
     
     <item>
       <title>Refresher of Security Taxonomy</title>
-      <link>sajidrahman.github.io/post/security-taxonomy/</link>
+      <link>https://sajidrahman.github.io/post/security-taxonomy/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/security-taxonomy/</guid>
+      <guid>https://sajidrahman.github.io/post/security-taxonomy/</guid>
       <description>&lt;p&gt;A list of basic terminologies frequently used with security &amp;amp; privacy related discussions/articles/research papers&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Principal&lt;/strong&gt; : A legitimate actor of any system.&lt;/li&gt;
@@ -377,9 +377,9 @@ char[] stringToCharArray = string.toCharArray();
     
     <item>
       <title>The Heilmeier Catechism (or what to include in a killer proposal)</title>
-      <link>sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/</link>
+      <link>https://sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/</guid>
+      <guid>https://sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/</guid>
       <description>&lt;p&gt;
 
 
@@ -399,10 +399,10 @@ char[] stringToCharArray = string.toCharArray();
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The Heilmeier Catechism&#34; srcset=&#34;
-               /sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg 400w,
-               /sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_59f1b989f4d6aa0ae5dc2884025f2122.jpg 760w,
-               /sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg&#34;
+               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg 400w,
+               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_59f1b989f4d6aa0ae5dc2884025f2122.jpg 760w,
+               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -418,9 +418,9 @@ char[] stringToCharArray = string.toCharArray();
     
     <item>
       <title>Tiny Android Security Tutorial</title>
-      <link>sajidrahman.github.io/post/android-security-tutorial/</link>
+      <link>https://sajidrahman.github.io/post/android-security-tutorial/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/android-security-tutorial/</guid>
+      <guid>https://sajidrahman.github.io/post/android-security-tutorial/</guid>
       <description>&lt;p&gt;[Secure Android App Development]
 Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://mobisec.reyammer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Another Great Resource:MobiSec&lt;/a&gt;&lt;/p&gt;
@@ -465,9 +465,9 @@ Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
     
     <item>
       <title>What is Bootstrapping in Statistics</title>
-      <link>sajidrahman.github.io/post/bootstrapping-in-statistics/</link>
+      <link>https://sajidrahman.github.io/post/bootstrapping-in-statistics/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/bootstrapping-in-statistics/</guid>
+      <guid>https://sajidrahman.github.io/post/bootstrapping-in-statistics/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Let&amp;rsquo;s see what is &lt;em&gt;re-sample&lt;/em&gt;
 
@@ -489,10 +489,10 @@ Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bootstrapping in Statistics-1&#34; srcset=&#34;
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_f3773f4991c27cffda8e5cbc850554cb.png 400w,
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_1c0a5498059a72ddb7b489f83ef58b72.png 760w,
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_f3773f4991c27cffda8e5cbc850554cb.png&#34;
+               /post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_f3773f4991c27cffda8e5cbc850554cb.png 400w,
+               /post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_1c0a5498059a72ddb7b489f83ef58b72.png 760w,
+               /post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-1_hu51f3fedcc013c3e8aa1acd01819ffa6b_174890_f3773f4991c27cffda8e5cbc850554cb.png&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -518,10 +518,10 @@ Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bootstrapping in Statistics-2&#34; srcset=&#34;
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_04521bd13b66e9e627dcd6fa4de0eaee.png 400w,
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_a102bdf4b4760c9982627d7c174cbb46.png 760w,
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_04521bd13b66e9e627dcd6fa4de0eaee.png&#34;
+               /post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_04521bd13b66e9e627dcd6fa4de0eaee.png 400w,
+               /post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_a102bdf4b4760c9982627d7c174cbb46.png 760w,
+               /post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-2_hue2c80fa905692d6c36714c8c18703408_125053_04521bd13b66e9e627dcd6fa4de0eaee.png&#34;
                width=&#34;760&#34;
                height=&#34;574&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -547,10 +547,10 @@ Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bootstrapping in Statistics-3&#34; srcset=&#34;
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_3631363d885e70e903df125d5d039c92.png 400w,
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_fc865f1bc8d5a3245b1fd6536d5ef604.png 760w,
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_3631363d885e70e903df125d5d039c92.png&#34;
+               /post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_3631363d885e70e903df125d5d039c92.png 400w,
+               /post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_fc865f1bc8d5a3245b1fd6536d5ef604.png 760w,
+               /post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-3_huc2bbba28649b0547b289b6cc5fc2a783_145844_3631363d885e70e903df125d5d039c92.png&#34;
                width=&#34;760&#34;
                height=&#34;572&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -576,10 +576,10 @@ Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bootstrapping in Statistics-4&#34; srcset=&#34;
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_aaa60a8bf83300ff928cf8323a1776f6.png 400w,
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_024af48e3ea79090473778406de24abc.png 760w,
-               /sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_aaa60a8bf83300ff928cf8323a1776f6.png&#34;
+               /post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_aaa60a8bf83300ff928cf8323a1776f6.png 400w,
+               /post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_024af48e3ea79090473778406de24abc.png 760w,
+               /post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://sajidrahman.github.io/post/bootstrapping-in-statistics/bootstrap-4_hufb7fdc8bfb487c27e7857456b6d842a9_140838_aaa60a8bf83300ff928cf8323a1776f6.png&#34;
                width=&#34;760&#34;
                height=&#34;572&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -593,9 +593,9 @@ Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
     
     <item>
       <title>What&#39;s the Difference between a Hypothesis and a Research question?</title>
-      <link>sajidrahman.github.io/post/hypothesis-vs-research-question/</link>
+      <link>https://sajidrahman.github.io/post/hypothesis-vs-research-question/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/post/hypothesis-vs-research-question/</guid>
+      <guid>https://sajidrahman.github.io/post/hypothesis-vs-research-question/</guid>
       <description>&lt;p&gt;
 
 
@@ -615,10 +615,10 @@ Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hypothesis vs Research Questions&#34; srcset=&#34;
-               /sajidrahman.github.io/post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_a24117ab8d03e04489910cfe00704def.png 400w,
-               /sajidrahman.github.io/post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_1dbffad197f2667c366f20db12f186dd.png 760w,
-               /sajidrahman.github.io/post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_a24117ab8d03e04489910cfe00704def.png&#34;
+               /post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_a24117ab8d03e04489910cfe00704def.png 400w,
+               /post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_1dbffad197f2667c366f20db12f186dd.png 760w,
+               /post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://sajidrahman.github.io/post/hypothesis-vs-research-question/hypo-question_hu20a66c6de00715181565c2acc64568fa_367982_a24117ab8d03e04489910cfe00704def.png&#34;
                width=&#34;400&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -631,25 +631,25 @@ Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
     
     <item>
       <title>Combating Social Media Information Operations with Neural Language Models</title>
-      <link>sajidrahman.github.io/publication/rahman-2020-combating/</link>
+      <link>https://sajidrahman.github.io/publication/rahman-2020-combating/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/publication/rahman-2020-combating/</guid>
+      <guid>https://sajidrahman.github.io/publication/rahman-2020-combating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Of Ulti, &#39;hajano&#39;, and &#34;Matachetar otanetak datam&#34;: Exploring Local Practices of Exchanging Confidential and Sensitive Information in Urban Bangladesh</title>
-      <link>sajidrahman.github.io/publication/haque-2019-ulti/</link>
+      <link>https://sajidrahman.github.io/publication/haque-2019-ulti/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/publication/haque-2019-ulti/</guid>
+      <guid>https://sajidrahman.github.io/publication/haque-2019-ulti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>sajidrahman.github.io/slides/example/</link>
+      <link>https://sajidrahman.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/slides/example/</guid>
+      <guid>https://sajidrahman.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -776,25 +776,25 @@ Three
     
     <item>
       <title>API Blindspots: Why Experienced Developers Write Vulnerable Code</title>
-      <link>sajidrahman.github.io/publication/oliveira-2018-api/</link>
+      <link>https://sajidrahman.github.io/publication/oliveira-2018-api/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/publication/oliveira-2018-api/</guid>
+      <guid>https://sajidrahman.github.io/publication/oliveira-2018-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An empirical case study on Stack Overflow to explore developers’ security challenges</title>
-      <link>sajidrahman.github.io/publication/rahman-2016-empirical/</link>
+      <link>https://sajidrahman.github.io/publication/rahman-2016-empirical/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/publication/rahman-2016-empirical/</guid>
+      <guid>https://sajidrahman.github.io/publication/rahman-2016-empirical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>sajidrahman.github.io/project/example/</link>
+      <link>https://sajidrahman.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/project/example/</guid>
+      <guid>https://sajidrahman.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -805,25 +805,25 @@ Three
     
     <item>
       <title>An Exploratory Study of User Perceptions of Payment Methods in the UK and the US</title>
-      <link>sajidrahman.github.io/publication/krol-2016-exploratory/</link>
+      <link>https://sajidrahman.github.io/publication/krol-2016-exploratory/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/publication/krol-2016-exploratory/</guid>
+      <guid>https://sajidrahman.github.io/publication/krol-2016-exploratory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart blood query: a novel mobile phone based privacy-aware blood donor recruitment and management system for developing regions</title>
-      <link>sajidrahman.github.io/publication/rahman-2011-smart/</link>
+      <link>https://sajidrahman.github.io/publication/rahman-2011-smart/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/publication/rahman-2011-smart/</guid>
+      <guid>https://sajidrahman.github.io/publication/rahman-2011-smart/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>sajidrahman.github.io/admin/config.yml</link>
+      <link>https://sajidrahman.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>sajidrahman.github.io/admin/config.yml</guid>
+      <guid>https://sajidrahman.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
