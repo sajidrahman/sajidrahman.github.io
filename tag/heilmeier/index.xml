@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heilmeier | Sajid Rahman</title>
-    <link>https://example.com/tag/heilmeier/</link>
-      <atom:link href="https://example.com/tag/heilmeier/index.xml" rel="self" type="application/rss+xml" />
+    <link>sajidrahman.github.io/tag/heilmeier/</link>
+      <atom:link href="sajidrahman.github.io/tag/heilmeier/index.xml" rel="self" type="application/rss+xml" />
     <description>Heilmeier</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Sajid Rahman</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/sajidrahman.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Heilmeier</title>
-      <link>https://example.com/tag/heilmeier/</link>
+      <link>sajidrahman.github.io/tag/heilmeier/</link>
     </image>
     
     <item>
       <title>The Heilmeier Catechism (or what to include in a killer proposal)</title>
-      <link>https://example.com/post/heilmeier-catechism-for-killer-proposal/</link>
+      <link>sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/heilmeier-catechism-for-killer-proposal/</guid>
+      <guid>sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/</guid>
       <description>&lt;p&gt;
 
 
@@ -36,10 +36,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The Heilmeier Catechism&#34; srcset=&#34;
-               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg 400w,
-               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_59f1b989f4d6aa0ae5dc2884025f2122.jpg 760w,
-               /post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://example.com/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg&#34;
+               /sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg 400w,
+               /sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_59f1b989f4d6aa0ae5dc2884025f2122.jpg 760w,
+               /sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;sajidrahman.github.io/sajidrahman.github.io/post/heilmeier-catechism-for-killer-proposal/Heilmeiers_Catechism_hu52c0b3c46cf8a977302c35731f20a0e3_142217_706e5ae63269118251862844c2cbc041.jpg&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

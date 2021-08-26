@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security | Sajid Rahman</title>
-    <link>https://example.com/tag/security/</link>
-      <atom:link href="https://example.com/tag/security/index.xml" rel="self" type="application/rss+xml" />
+    <link>sajidrahman.github.io/tag/security/</link>
+      <atom:link href="sajidrahman.github.io/tag/security/index.xml" rel="self" type="application/rss+xml" />
     <description>Security</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Sajid Rahman</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/sajidrahman.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Security</title>
-      <link>https://example.com/tag/security/</link>
+      <link>sajidrahman.github.io/tag/security/</link>
     </image>
     
     <item>
       <title>Tiny Android Security Tutorial</title>
-      <link>https://example.com/post/android-security-tutorial/</link>
+      <link>sajidrahman.github.io/post/android-security-tutorial/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/android-security-tutorial/</guid>
+      <guid>sajidrahman.github.io/post/android-security-tutorial/</guid>
       <description>&lt;p&gt;[Secure Android App Development]
 Free MOOC (now retired) offered by University of Southampton&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://mobisec.reyammer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Another Great Resource:MobiSec&lt;/a&gt;&lt;/p&gt;
