@@ -9,4 +9,6 @@ Notes:
 - Faced this issue after cloning the [original repo](https://github.com/wowchemy/starter-hugo-academic) from wowchemy, solved the issue by following this [guideline](https://wowchemy.com/docs/guide/troubleshooting/#error-go-executable-not-found).
 - Created the deployment script (`deploy` file) by following this [guide](https://gohugo.io/hosting-and-deployment/deployment-with-rsync/).
 - Updated the publication section by this [guideline](https://www.emmanuelteitelbaum.com/post/managing-pubs-academic-website/).
+- To build, run `hugo`
+- To publish, run `./deploy`
 
