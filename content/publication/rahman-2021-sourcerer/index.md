@@ -3,7 +3,7 @@ title: "SO{U}RCERER: Developer-Driven Security Testing Framework for Android App
 date: 2021-09-29
 publishDate: 2021-09-26T14:36:19.255084Z
 authors: ["Muhammad Sajidur Rahman", "Blas Cojusner", "Ryon Kennedy", "Prerit Pathak", "Lin Qi", "Byron Williams"]
-publication_types: ["4"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: In "*2021 36th IEEE/ACM International Conference on Automated Software Engineering Workshops*"
