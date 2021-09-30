@@ -2,7 +2,7 @@
 
 
 
-Notes:
+### Notes:
 
 - Currently I'm using rsync to deploy the `public` folder to remote server.
 - I've taken a lot of tips from this [great post](https://matteocourthoud.github.io/post/website/). 🙏 
@@ -11,4 +11,22 @@ Notes:
 - Updated the publication section by this [guideline](https://www.emmanuelteitelbaum.com/post/managing-pubs-academic-website/).
 - To build, run `hugo`
 - To publish, run `./deploy`
+
+### Troubleshooting
+
+1. `Error: from config: failed to resolve output format "headers" from site config`
+
+   Solution:
+
+   - Temporarily remove the “WebAppManifest”, “redirects”, “headers” output types from your config.yaml and run:
+
+   ```markdown
+   
+   hugo mod clean
+   hugo mod tidy
+   ```
+
+   - Check that hugo now runs OK with `hugo server` or blogdown and then add the output types back into your config.yaml.
+
+[Reference](http://www.mysmu.edu/faculty/jwwang/post/building-your-website-with-hugo-and-rmarkdown/)
 
