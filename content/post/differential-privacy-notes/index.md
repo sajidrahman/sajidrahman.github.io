@@ -42,4 +42,5 @@ categories:
 1. This introductory [slides](https://conference.nber.org/confer/2020/SI2020/ML/KiferIntroduction.pdf) and [video](https://www.youtube.com/watch?v=dQRhWRJgtSg) from Prof. Daniel Kifer is really great to understand the mathematical intuition behind epsilon-DP and DP in general. 
 2. NIST has started a blog series on [differential privacy engineering program](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog), worth checking out.
 3. Another blog series by [Damien Desfontaines ](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html) 
-4. Like this [lecture slides](https://www.cs.toronto.edu/~rgrosse/courses/csc2515_2019/slides/lec11-slides.pdf) by Prof. Roger Grosse from UofT.
+4. Like 👍 this [lecture slides](https://www.cs.toronto.edu/~rgrosse/courses/csc2515_2019/slides/lec11-slides.pdf) by Prof. Roger Grosse from UofT.
+5. [Anonymity: A Formalization of Privacy  `l`-Diversity](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2013-08-1/NET-2013-08-1_07.pdf) -- Interesting analysis of applying anonymity techniques on a dataset collected from Android users.
