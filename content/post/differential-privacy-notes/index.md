@@ -44,3 +44,4 @@ categories:
 3. Another blog series by [Damien Desfontaines ](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html) 
 4. Like 👍 this [lecture slides](https://www.cs.toronto.edu/~rgrosse/courses/csc2515_2019/slides/lec11-slides.pdf) by Prof. Roger Grosse from UofT.
 5. [Anonymity: A Formalization of Privacy  `l`-Diversity](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2013-08-1/NET-2013-08-1_07.pdf) -- Interesting analysis of applying anonymity techniques on a dataset collected from Android users.
+6. [ Programming Differential Privacy: A book about differential privacy, for programmers](https://programming-dp.com/index.html) 🔥 ❤️ 
