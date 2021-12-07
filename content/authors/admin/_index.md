@@ -72,7 +72,9 @@ email: ""
 highlight_name: true
 ---
 
-My name is Sajidur Rahman, commonly called as *'Sajid'* (pronounced as 'SA-ZID'). I am a graduate research assistant working in the **Institute for Cybersecurity Research Center at University of Florida**. My research work intersects the following cross-cutting areas:
+My name is Sajidur Rahman, commonly called as *'Sajid'* (pronounced as 'SA-ZID'). I am a graduate research assistant working in the **Institute for Cybersecurity Research Center at University of Florida**. I am co-advised by Profs. [Vincent Bindschaedler](https://www.cise.ufl.edu/bindschaedler-vincent/) and [Byron Williams](https://www.cise.ufl.edu/williams-byron/). 
+
+My research work intersects the following cross-cutting areas:
 
 - Security and Privacy Engineering
 - Deep Learning
