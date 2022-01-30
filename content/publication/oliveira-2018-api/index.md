@@ -6,8 +6,8 @@ authors: ["Daniela Seabra Oliveira", "Tian Lin", "Muhammad Sajidur Rahman", "Rad
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018)*"
+publication: "*Fourteenth Symposium on Usable Privacy and Security*"
+publication_short: In *SOUPS'18*
 url_slides: 'https://www.usenix.org/conference/soups2018/presentation/oliveira'
 url_pdf: 'https://www.usenix.org/system/files/conference/soups2018/soups2018-oliveira.pdf'
 ---
-

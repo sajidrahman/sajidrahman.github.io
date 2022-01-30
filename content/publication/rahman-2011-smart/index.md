@@ -7,7 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: In "*2011 IEEE Workshops of International Conference on Advanced Information Networking and Applications*"
-publication_short: In *W-AINA*
+publication_short: In *WAINA'11*
 url_pdf: 'https://www.researchgate.net/publication/224236083_Smart_Blood_Query_A_Novel_Mobile_Phone_Based_Privacy-Aware_Blood_Donor_Recruitment_and_Management_System_for_Developing_Regions'
 ---
-

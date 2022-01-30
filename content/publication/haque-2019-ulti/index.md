@@ -7,6 +7,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: In "*Proceedings of the ACM on Computer Supported Collaborative Work*"
-Publication_short: In *CSCW*
+Publication_short: In *CSCW'19*
 ---
-

@@ -7,6 +7,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: In "*NDSS Workshop on Usable Security*"
-Publication_short: In *USEC*
+Publication_short: In *USEC'16*
 ---
-

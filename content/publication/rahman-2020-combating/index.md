@@ -7,7 +7,7 @@ publication_types: ["4"]
 abstract: ""
 featured: true
 publication: In "*2020 USENIX Security and AI Networking Summit*"
-publication_short : In *USENIX ScAINet*
+publication_short : In *USENIX ScAINet'20*
 
 links:
  - name: On WIRED
@@ -33,6 +33,3 @@ image:
   preview_only: true
 
 ---
-
-
-
