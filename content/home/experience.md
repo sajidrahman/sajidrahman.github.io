@@ -22,20 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Applied Scientist
+    company: Google Cloud Security (Team Mandiant)
+    company_url: 'https://cloud.google.com/security/mandiant'
+    company_logo:
+    location: Florida
+    date_start: '2022-11-01'
+    date_end: ''
+    description: Working at the intersection cybersecurity threat intelligence and machine learning.
+
   - title: Graduate Research Assistant
     company: Florida Institute for Cybersecurity Research
     company_url: 'http://fics.institute.ufl.edu/'
     company_logo:
     location: Florida
     date_start: '2017-05-11'
-    date_end: ''
+    date_end: '2022-08-15'
     description: Analysing app privacy policies and 3rd-party libs' private data collection and sharing behavior.
-    #description: |2-
-    #    Responsibilities include, but not limited to:
-
-    #    * Conducting Experiments
-    #    * Analysing results
-    #    * Writing manuscripts
 
   - title: Research Intern
     company: Avast Software, Inc
@@ -54,15 +57,6 @@ experience:
     date_start: '2019-05-25'
     date_end: '2020-08-15'
     description: Fine-tuned GPT-2 to generate synthetic disinformation for disinformation simulation and detection.
-
-  - title: Graduate Research Assistant
-    company: Kansas State University
-    company_url: ''
-    company_logo:
-    location: Kansas
-    date_start: '2014-08-25'
-    date_end: '2016-12-15'
-    description: Applied text mining on the Stack Overflow dataset to gauge software developers’ security challenges.
 
 design:
   columns: '2'
