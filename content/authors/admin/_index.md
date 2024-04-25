@@ -70,15 +70,9 @@ email: ""
 highlight_name: true
 ---
 
-My name is Sajid Rahman, commonly called as *'Sajid'* (pronounced as 'SA-ZID'). I am an applied scientist in Google Cloud Security (Team Mandiant), working at the intersection of cybersecurity and machine learning. 
+My name is Sajid Rahman (pronounced as 'SA-JID'). I am an applied scientist in Google Cloud Security (Team Mandiant), working at the intersection of cybersecurity and machine learning. 
 
 I completed my Ph.D. in Computer Science from the University of Florida, while working as a graduate research assistant at the **Institute for Cybersecurity Research Center at University of Florida**. I was co-advised by Profs. [Vincent Bindschaedler](https://www.cise.ufl.edu/bindschaedler-vincent/) and [Byron Williams](https://www.cise.ufl.edu/williams-byron/). 
-
-My research work intersects the following cross-cutting areas:
-
-- Security and Privacy Threat Modeling
-- Deep Learning
-- Human-centered Computing
 
 I completed M.Sc in  [Computer Science at Kansas State University](https://www.cs.ksu.edu/) under supervision of [Prof. Eugene Vasserman](https://people.cs.ksu.edu/~eyv/) and B.Sc degree in Computer Science from [Bangladesh University of Engineering & Technology (BUET)](http://www.buet.ac.bd/). In my previous life, I worked as a Software Engineer in the fintech industry for over 4+ years. During this period, I led and implemented projects such as a centralized MIS system for a large commercial bank, architecting and implementing a mobile payment engine at [SureCash](https://www.surecash.net/), which is still being used full-steam today and now one of the [largest mobile banking providers in Bangladesh](https://academy.smu.edu.sg/insights/surecash-promoting-financial-inclusion-bangladesh-3606).
 
