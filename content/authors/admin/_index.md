@@ -6,21 +6,19 @@ title: Sajid Rahman
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Applied Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Florida
-  url: https://www.ufl.edu/
-- name: Florida Institute for Cybersecurity Research
-  url: http://fics.institute.ufl.edu/
+- name: Google Cloud Security
+  url: https://cloud.google.com/security/mandiant
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software security & privacy engineering, deep learning, and human-centered computing.
+bio: My research interests include security & privacy threat modeling, deep learning, and human-centered computing.
 
 # Interests to show in About widget
 interests:
-- Security & Privacy Engineering
+- Security & Privacy Threat Modeling
 - Deep Learning
 - Human-centered Computing
 
@@ -29,7 +27,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Florida
-    year: 2017 - Present
+    year: 2022
   - course: MS in Computer Science
     institution: Kansas State University
     year: 2017
@@ -44,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rahmanm at ufl dot edu'
+  link: 'mailto:sajidrahman at csebuet dot org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sajidonly
@@ -72,11 +70,13 @@ email: ""
 highlight_name: true
 ---
 
-My name is Sajidur Rahman, commonly called as *'Sajid'* (pronounced as 'SA-ZID'). I am a graduate research assistant working in the **Institute for Cybersecurity Research Center at University of Florida**. I am co-advised by Profs. [Vincent Bindschaedler](https://www.cise.ufl.edu/bindschaedler-vincent/) and [Byron Williams](https://www.cise.ufl.edu/williams-byron/). 
+My name is Sajid Rahman, commonly called as *'Sajid'* (pronounced as 'SA-ZID'). I am an applied scientist in Google Cloud Security (Team Mandiant), working at the intersection of cybersecurity and machine learning. 
+
+I completed my Ph.D. in Computer Science from the University of Florida, while working as a graduate research assistant at the **Institute for Cybersecurity Research Center at University of Florida**. I was co-advised by Profs. [Vincent Bindschaedler](https://www.cise.ufl.edu/bindschaedler-vincent/) and [Byron Williams](https://www.cise.ufl.edu/williams-byron/). 
 
 My research work intersects the following cross-cutting areas:
 
-- Security and Privacy Engineering
+- Security and Privacy Threat Modeling
 - Deep Learning
 - Human-centered Computing
 
